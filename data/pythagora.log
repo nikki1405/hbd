@@ -1,0 +1,10 @@
+2026-01-16T05:17:52.960Z INFO Is remote: false
+2026-01-16T05:17:52.964Z INFO Starting Local. Installation path: c:\Users\Rejeti Nikhil Sharma\Downloads
+2026-01-16T05:17:52.967Z INFO [MainProvider] Creating new MainProvider instance...
+2026-01-16T05:17:52.972Z INFO [TabsManager] Code view listener set up at initialization
+2026-01-16T05:17:52.978Z INFO Installation path exists: c:\Users\Rejeti Nikhil Sharma\Downloads
+2026-01-16T05:17:52.981Z INFO Initializing database with URL: file:c:\Users\Rejeti Nikhil Sharma\Downloads\pythagora-core\data\database\pythagora.db
+2026-01-16T05:17:52.994Z INFO Database file exists, skipping prisma generate/push for faster startup
+2026-01-16T05:17:52.997Z INFO Database initialized successfully
+2026-01-16T05:17:53.001Z INFO [Migration] Checking for database migration...
+2026-01-16T05:17:55.661Z INFO [Migration] No migration needed
